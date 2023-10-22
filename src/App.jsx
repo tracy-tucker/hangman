@@ -1,11 +1,13 @@
 // import './App.css'
 
+import Hangman from './components/Hangman';
 import Hero from './components/Hero';
 
 function App() {
   return (
     <>
       <Hero />
+      <Hangman />
     </>
   );
 }
