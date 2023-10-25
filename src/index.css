@@ -7,7 +7,7 @@
     @apply mx-auto max-w-7xl px-8;
   }
   .btn-hover {
-    @apply bg-white text-green py-1 px-3 rounded-sm;
+    @apply bg-white text-green-300 py-1 px-3 rounded-sm;
   }
 }
 
@@ -20,7 +20,7 @@
   box-sizing: border-box;
 }
 
-html {
+/* html {
   font-size: 100%;
 } /* 16px */
 
