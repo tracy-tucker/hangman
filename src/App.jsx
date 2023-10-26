@@ -1,6 +1,6 @@
 // import './App.css'
 
-import Hangman from './components/Hangman';
+import Gameboard from './components/Gameboard';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 
@@ -9,7 +9,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <Hangman />
+      <Gameboard />
     </>
   );
 }
