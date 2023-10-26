@@ -6,9 +6,9 @@ const Hangman = () => {
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
       version="1.1"
-      width="500"
-      height="500"
-      viewBox="0 0 500 500"
+      width="400"
+      height="400"
+      viewBox="90 50 400 400"
       xmlSpace="preserve"
     >
       <desc>Created with Fabric.js 5.3.0</desc>
